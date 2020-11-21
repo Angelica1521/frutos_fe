@@ -1,0 +1,103 @@
+
+@font-face{
+	font-family:L;
+	src:url(fuentes/L.ttf);
+	}
+	@font-face{
+	font-family:X2;
+	src:url(fuentes/X2.ttf);
+	}
+	
+	
+@font-face{
+	font-family:ok;
+	src:url(fuentes/ok.ttf);
+	}
+	
+	
+.pex{
+	color:#e0007d;
+	font:bold 50px L,verdana,sans-serif;
+	margin-left:-50px;
+	margin-top:-1px;
+}
+
+.maximo{
+color:#e0007d;
+	font:bold 50px L,verdana,sans-serif;
+	margin-left:-50px;
+	margin-top:-1px;	
+}
+
+.juliux{
+	color:#FFFFFF;
+	font:bold 35px L,verdana,sans-serif;
+	
+}
+
+.cesar{
+	color:black;
+	font:bold 22px X2,verdana,sans-serif;
+	margin-right:120px;
+	margin-top:10px;
+}
+.pollo{
+	color:#9500bb;
+	font:bold 50px L,verdana,sans-serif;
+	margin-left:-50px;
+	margin-top:-1px;
+}
+.emperador{
+	color: #df98ff;
+	font:bold 28px ok,verdana,sans-serif;/*Anexión del estilo*/
+	text-align:center;
+	font-size:50px;
+	text-shadow: 2px 2px 2px black;
+	margin-top:-10px;
+	
+}
+
+#A3{
+	
+	border-radius:20px;
+}
+
+.cesar2{
+	color:black;
+	font:bold 22px X2,verdana,sans-serif;
+	margin-top:10px;
+}
+
+
+.video-container{
+	border:3px solid;
+	border-radius:5px;
+	color:#228B22;
+	height:0px;
+	padding-bottom:56.25%;
+	position:relative;
+	background:#000000;
+
+	
+	/*position:relative;
+	padding-bottom:56.25%;
+	padding-top:20px;
+	overflow:hidden;
+	max-width:100%;*/
+}
+
+
+.video-container video{
+	position:absolute;
+	top:0px;
+	height:100%;
+	width:100%;
+	/*position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:50%;*/
+	 
+ }
+ 
+
